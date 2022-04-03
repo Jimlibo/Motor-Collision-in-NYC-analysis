@@ -3,7 +3,7 @@
 Given the increasing reports of road accidents, this application
 was made in order to have a better insight regarding motor vehicle accidents
 specifically. We have collected data from various sources and store them in
-a csv file, that can be found [here]. This file is used to create a dashboard with
+a csv file, that can be found the resources folder. This file is used to create a dashboard with
 interactive plots, 3D maps, etc. With the use of sliders, select-boxes and dropdowns,
 each users can define their choices and watch the diagrams to change dynamically. First, 
 they can see in a map where the most accidents happened, based on the number of injured people.
@@ -32,5 +32,5 @@ to run successfully please extract the file to the same folder.
 
 
 
-[here]: /resources/Motor_Vehicle_Collisions.csv
+
 [Streamlit]: https://streamlit.io/
