@@ -26,6 +26,10 @@ Then, just type the below command:
 streamlit run app.py
 ```
 
+## Final Notes
+Due to the csv file being approximatelly 180 MB, it is contained in a zip format inside "resources" folder. For the python script
+to run successfully please extract the file to the same folder.
+
 
 
 [here]: /resources/Motor_Vehicle_Collisions.csv
